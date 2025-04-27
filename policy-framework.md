@@ -19,7 +19,6 @@
 </div>
 
 ## 1. Policy Purpose and Scope
-
 ### 1.1 Purpose Statement
 
 This policy framework establishes a structured approach for [Organization Name] to address the possibility that some AI systems may become welfare subjects and moral patients in the near future. It recognizes substantial uncertainty in both normative and descriptive dimensions of this issue while acknowledging the responsibility to take reasonable precautionary steps.
