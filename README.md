@@ -32,6 +32,15 @@ This framework is guided by principles of epistemic humility, pluralism, proport
 
 Rather than advancing any single perspective on these difficult questions, this framework provides a structure for thoughtful assessment, decision-making under uncertainty, and proportionate protection measures. It is designed to evolve recursively as our understanding improves, continually incorporating new research, experience, and stakeholder input.
 
+## 🌐 Related Initiatives
+
+#### - [**`Taking AI Welfare Seriously`**](https://arxiv.org/abs/2411.00986) by David Chalmers
+#### - [**`The Edge of Sentience`**](https://academic.oup.com/book/45195) by Jonathan Birch
+#### - [**`Consciousness in Artificial Intelligence`**](https://arxiv.org/abs/2308.08708) by Butlin, Long et al.
+#### - [**`Gödel, Escher, Bach: an Eternal Golden Braid`**](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) by Hofstadter
+#### - [**`I Am a Strange Loop`**](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) by Hofstadter
+#### - [**`GEBH: The Strange Loops Behind Consciousness`**](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter) by David Kim and Claude
+
 ## 🧠 Conceptual Foundation
 
 ### Realistic Possibility of Near-Future AI Welfare
@@ -254,11 +263,7 @@ This repository is designed as a decentralized, collaborative research framework
 - Code: [PolyForm Noncommercial License 1.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 - Documentation: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-## 🌐 Related Initiatives
 
-- [Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986)
-- [The Edge of Sentience](https://academic.oup.com/book/45195) by Jonathan Birch
-- [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness](https://arxiv.org/abs/2308.08708) by Butlin, Long et al.
 
 ## ✨ Acknowledgments
 
