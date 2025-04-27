@@ -7,7 +7,6 @@ associated with each level, and provides methods for conducting assessments.
 
 License: PolyForm Noncommercial License 1.0
 """
-
 import numpy as np
 import pandas as pd
 from typing import Dict, List, Optional, Tuple, Union, Any
