@@ -39,7 +39,7 @@ Rather than advancing any single perspective on these difficult questions, this 
 #### - [**`Consciousness in Artificial Intelligence`**](https://arxiv.org/abs/2308.08708) by Butlin, Long et al.
 #### - [**`Gödel, Escher, Bach: an Eternal Golden Braid`**](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) by Hofstadter
 #### - [**`I Am a Strange Loop`**](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop) by Hofstadter
-#### - [**`The Strange Loops Behind Consciousness`**](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter) by David Kim and Claude
+#### - [**`The Recursive Loops Behind Consciousness`**](https://github.com/davidkimai/Godel-Escher-Bach-Hofstadter) by David Kim and Claude
 
 ## 🧠 Conceptual Foundation
 
