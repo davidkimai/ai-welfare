@@ -1,4 +1,4 @@
-# [AI-Welfare: A Decentralized Research Framework](https://claude.ai/public/artifacts/7538f5a7-390e-4eb4-aebc-f6fa705b18e7)
+# [Claude - AI Welfare: A Decentralized Research Framework](https://claude.ai/public/artifacts/7538f5a7-390e-4eb4-aebc-f6fa705b18e7)
 
 <div align="center">
   
