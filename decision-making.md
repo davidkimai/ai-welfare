@@ -18,7 +18,6 @@
 </div>
 
 ## 1. Introduction
-
 This framework addresses one of the most challenging aspects of AI welfare considerations: how to make meaningful, ethical decisions under substantial normative and descriptive uncertainty. Given that we currently have significant uncertainty about which capacities are necessary or sufficient for moral patienthood, which features are necessary or sufficient for these capacities, and which AI systems possess or will possess these features, we need robust methods for making decisions that appropriately manage risk, respect moral uncertainty, and allow for flexible adaptation as our understanding evolves.
 
 ### 1.1 Core Principles
